@@ -8,7 +8,7 @@ Digital-Logic-Design-Security-Alarm/
     └── dld-security-alarm.png
 ```
 
-### README.md — direct copy/paste
+### README.md — 
 
 ````markdown
 # 🔐 Digital Logic Design — Security Alarm System
