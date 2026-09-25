@@ -1,4 +1,4 @@
-# 🔐 Digital Logic Design — Security Alarm System  vs
+# 🔐 Digital Logic Design — Security Alarm System  v
 
 <p align="center">
   <img src="images/dld-security-alarm.png" alt="Digital Logic Design Security Alarm System" width="900">
